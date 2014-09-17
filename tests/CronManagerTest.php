@@ -1,8 +1,5 @@
 <?php
 
-include __DIR__ . '/../src/CronManager.php';
-include __DIR__ . '/../src/CronEntry.php';
-
 class CronManagerTest extends PHPUnit_Framework_TestCase {
 
 	private $cron;
