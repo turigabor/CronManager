@@ -1,7 +1,7 @@
 Cron Manager
 ============
 
-This is a simple Cron Manager. I need a PHP script which process a cron file.
+This is a simple Cron Manager. I need a PHP script which processes a cron file.
 
 Run this script every minute:
 
